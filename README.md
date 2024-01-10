@@ -1,6 +1,3 @@
-# Verax Attestation Registry
+Special project for the github magic.
 
-Verax is a shared registry for storing attestations of public interest on EVM chains,
-designed to enhance data discoverability and consumption for dApps across the network.
-
-This is the home for all things related to https://ver.ax/
+You probably want to be looking at the profile/README.md file
